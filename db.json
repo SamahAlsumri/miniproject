@@ -1,0 +1,22 @@
+{
+  "resto": [
+    {
+      "Id": 1,
+      "Name": " Muscat pharmacy",
+      "Adress": "Muscat",
+      "Email": "MuscatPharmacy@gmail.com"
+    },
+    {
+      "Id": 2,
+      "Name": "Alshifaa pharmacy",
+      "Adress": "Nizwa",
+      "Email": "AlshifaaPharmacy@gmail.com"
+    },
+    {
+      "Id": 3,
+      "Name": "Medicen pharmacy",
+      "Adress": "Sohar",
+      "Email": "MedicenPharmacy@gmail.com"
+    }
+  ]
+}

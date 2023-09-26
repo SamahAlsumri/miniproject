@@ -1,0 +1,18 @@
+.card{
+    height: 400px;
+    width: 500px;
+    padding: 20px;
+    margin:auto;
+    background-color: azure;
+    border-radius: 1cqi;
+    
+
+    
+  
+}
+body{
+    background-color: rgba(35, 115, 186, 0.244);
+    height:800px ;
+    
+
+}
